@@ -1,5 +1,5 @@
 # stephanecodes
-Aka Stephane Janicaud
+Aka Stephane Janicaud  
 Caffeinated Developer at Visiativ - Constant learner
 
 ## Slides
